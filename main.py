@@ -1,4 +1,4 @@
-from gameboard import GameBoard
+from game import GameBoard
 
 game_board = GameBoard()
 
